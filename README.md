@@ -1,6 +1,6 @@
 # Electron.NET-Tutorials
 
-Author: Navule Pavan Kumar Rao
+Author: Navule Pavan Kumar Rao [🤵](https://bit.ly/3d17tZP)
 
 | Branch 🌵 | Tutorial 📃 |
 |----------|-------------|
